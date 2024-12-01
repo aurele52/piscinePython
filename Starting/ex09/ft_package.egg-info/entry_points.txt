@@ -1,0 +1,2 @@
+[console_scripts]
+ft_package = ft_package.core:count_in_list
